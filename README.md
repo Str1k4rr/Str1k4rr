@@ -19,7 +19,7 @@
 [![](https://visitcount.itsvg.in/api?id=Str1k4r&icon=2&color=6)](https://visitcount.itsvg.in)
 
   ## 💰 You can help me by Donating
-  [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/PayPal.me/KalmarRoland) 
+  [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/KalmarRoland) 
 
   
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
